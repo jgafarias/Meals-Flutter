@@ -31,7 +31,8 @@ class MealsScreen extends StatelessWidget {
       ),
     );
 
-    if (meals.isEmpty) {
+    // Corrigindo a lógica: exibir a lista de refeições quando houver itens
+    if (meals.isNotEmpty) {
       content = ListView.builder(
         itemCount: meals.length,
         itemBuilder: (ctx, index) => MealItem(meal: meals[index]),
