@@ -54,4 +54,14 @@ O projeto segue a estrutura padrão de um aplicativo Flutter, com as seguintes p
     ```
 
 ## Base do Projeto
-Este projeto foi desenvolvido com base no curso: [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+
+Este projeto foi desenvolvido com base no curso: [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps).
+
+## Recursos Adicionais
+
+- [Documentação do Flutter](https://flutter.dev/docs)
+- [Cookbook do Flutter](https://docs.flutter.dev/cookbook)
+
+## Licença
+
+Este projeto é apenas para fins educacionais e não possui uma licença específica.
