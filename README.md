@@ -2,6 +2,14 @@
 
 Este é um projeto Flutter que apresenta um aplicativo de receitas, permitindo que os usuários explorem categorias de refeições, visualizem detalhes de receitas e marquem suas refeições favoritas.
 
+## Demo
+
+<div align="center">
+
+   ![image](https://github.com/user-attachments/assets/7f31b3bb-7f62-48fc-b2c4-a56b54ffe892)
+
+</div>
+
 ## Funcionalidades
 
 - **Categorias de Refeições**: Navegue por diferentes categorias de refeições.
@@ -46,4 +54,4 @@ O projeto segue a estrutura padrão de um aplicativo Flutter, com as seguintes p
     ```
 
 ## Base do Projeto
-Este projeto foi desenvolvido com base no curso: : [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+Este projeto foi desenvolvido com base no curso: [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
