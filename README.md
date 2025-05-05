@@ -29,3 +29,21 @@ O projeto segue a estrutura padrão de um aplicativo Flutter, com as seguintes p
 2. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/meals.git
+
+## Navegue até o diretório do projeto
+    ```
+    cd meals
+    ```
+
+## Instale as dependências
+    ```
+    flutter pub get
+    ```
+
+## Execute o aplicativo
+    ```
+    flutter run
+    ```
+
+## Base do Projeto
+Este projeto foi desenvolvido com base no curso: : [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
