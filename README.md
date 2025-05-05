@@ -1,16 +1,31 @@
-# meals
+# Meals App
 
-A new Flutter project.
+Este é um projeto Flutter que apresenta um aplicativo de receitas, permitindo que os usuários explorem categorias de refeições, visualizem detalhes de receitas e marquem suas refeições favoritas.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Categorias de Refeições**: Navegue por diferentes categorias de refeições.
+- **Detalhes das Refeições**: Veja os ingredientes e passos para preparar cada refeição.
+- **Favoritos**: Marque refeições como favoritas para acessá-las rapidamente.
+- **Filtros**: Personalize as refeições exibidas com base em preferências alimentares, como sem glúten, vegetariano, etc.
 
-A few resources to get you started if this is your first Flutter project:
+## Estrutura do Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+O projeto segue a estrutura padrão de um aplicativo Flutter, com as seguintes pastas principais:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **`lib/`**: Contém o código principal do aplicativo, incluindo telas, widgets e lógica de negócios.
+- **`android/`**, **`ios/`**, **`macos/`**, **`linux/`**, **`windows/`**, **`web/`**: Contêm os arquivos de configuração e código específico para cada plataforma.
+- **`test/`**: Contém os testes do aplicativo.
+
+## Tecnologias Utilizadas
+
+- **Flutter**: Framework para desenvolvimento multiplataforma.
+- **Dart**: Linguagem de programação utilizada pelo Flutter.
+- **Google Fonts**: Para estilização de texto com fontes personalizadas.
+
+## Como Executar o Projeto
+
+1. Certifique-se de ter o Flutter instalado. Para mais informações, consulte a [documentação oficial](https://flutter.dev/docs/get-started/install).
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/meals.git
