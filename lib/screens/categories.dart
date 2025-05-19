@@ -24,6 +24,8 @@ class _CategoriesScreenState extends State<CategoriesScreen> with SingleTickerPr
     _animationController = AnimationController(
       vsync: this,
       duration: const Duration(microseconds: 300),
+      lowerBound: 0,
+      upperBound: 1,
     );
   }
 
